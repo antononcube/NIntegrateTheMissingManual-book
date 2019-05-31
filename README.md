@@ -56,6 +56,14 @@ The raw documents in the repository are copies of posts I made at my blog
    
    - Jupyter notebooks.
    
+## License matters
+
+All code files and executable documents are with the license BSD 3-Clause License. 
+For details see https://en.wikipedia.org/wiki/BSD_licenses .
+
+All documents are with the license Creative Commons Attribution 4.0 International (CC BY 4.0). 
+For details see https://creativecommons.org/licenses/by/4.0/ .
+
 
 ## References
 
